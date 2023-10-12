@@ -18,7 +18,7 @@
     <?php 
     require_once 'templates/header.html';
     ?>
-    <h1>prueba de push</h1>
+    
     <?php 
     require_once 'templates/footer.html';
     ?>
